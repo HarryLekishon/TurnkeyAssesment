@@ -34,7 +34,7 @@ initialized we replace them as the minimim and maximum elements. We then find th
 
 In this task we use a select query to get employees whose age is above 30 and salary above 50000.
 
-## Resources
+## Previuos Projects
 
 - [GoldenLifeHospital](https://goldenlifekenya.org/donate)
 - [Online E-Commerce Shop](https://github.com/HarryLekishon/ProShop/tree/master)
